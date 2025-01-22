@@ -22,8 +22,10 @@ function renderMovies(movieList) {
         
         card.innerHTML = `
             <img src="${movie.image}" alt="${movie.title}">
-            <h3>${movie.title}</h3>
-            <span class="type">${movie.genre}</span>
+            <div class="gaps">
+                <h3>${movie.title}</h3>
+                <span class="type">${movie.genre}</span>
+            <div/>
         `;
         
         cardGrid.appendChild(card);

@@ -49,6 +49,12 @@ img{
     object-fit: contain;
     margin-bottom: 10px;
 }
+.card .gaps{
+    display: flex;
+    gap: 12px;
+    justify-content: space-evenly;
+    align-items: center;
+}
 
 
 
