@@ -1,0 +1,242 @@
+{
+    "movies": [
+        {
+          "Title": "Inception",
+          "Release Year": 2010,
+          "Genre": "Sci-Fi",
+          "Short Description": "Dreams within dreams.",
+          "Movie Poster": "https://example.com/inception.jpg"
+        },
+        {
+          "Title": "The Dark Knight",
+          "Release Year": 2008,
+          "Genre": "Action",
+          "Short Description": "Batman vs. Joker.",
+          "Movie Poster": "https://example.com/dark_knight.jpg"
+        },
+        {
+          "Title": "Titanic",
+          "Release Year": 1997,
+          "Genre": "Romance",
+          "Short Description": "Shipwreck love story.",
+          "Movie Poster": "https://example.com/titanic.jpg"
+        },
+        {
+          "Title": "Avatar",
+          "Release Year": 2009,
+          "Genre": "Adventure",
+          "Short Description": "Pandora exploration.",
+          "Movie Poster": "https://example.com/avatar.jpg"
+        },
+        {
+          "Title": "The Matrix",
+          "Release Year": 1999,
+          "Genre": "Sci-Fi",
+          "Short Description": "Reality or simulation?",
+          "Movie Poster": "https://example.com/matrix.jpg"
+        },
+        {
+          "Title": "Jurassic Park",
+          "Release Year": 1993,
+          "Genre": "Adventure",
+          "Short Description": "Dinosaurs come alive.",
+          "Movie Poster": "https://example.com/jurassic_park.jpg"
+        },
+        {
+          "Title": "Forrest Gump",
+          "Release Year": 1994,
+          "Genre": "Drama",
+          "Short Description": "Life of Forrest Gump.",
+          "Movie Poster": "https://example.com/forrest_gump.jpg"
+        },
+        {
+          "Title": "Pulp Fiction",
+          "Release Year": 1994,
+          "Genre": "Crime",
+          "Short Description": "Interwoven stories.",
+          "Movie Poster": "https://example.com/pulp_fiction.jpg"
+        },
+        {
+          "Title": "The Shawshank Redemption",
+          "Release Year": 1994,
+          "Genre": "Drama",
+          "Short Description": "Hope and freedom.",
+          "Movie Poster": "https://example.com/shawshank.jpg"
+        },
+        {
+          "Title": "Gladiator",
+          "Release Year": 2000,
+          "Genre": "Action",
+          "Short Description": "Rome's fallen hero.",
+          "Movie Poster": "https://example.com/gladiator.jpg"
+        },
+        {
+          "Title": "Interstellar",
+          "Release Year": 2014,
+          "Genre": "Sci-Fi",
+          "Short Description": "Space and time travel.",
+          "Movie Poster": "https://example.com/interstellar.jpg"
+        },
+        {
+          "Title": "The Lion King",
+          "Release Year": 1994,
+          "Genre": "Animation",
+          "Short Description": "Lion prince's journey.",
+          "Movie Poster": "https://example.com/lion_king.jpg"
+        },
+        {
+          "Title": "Frozen",
+          "Release Year": 2013,
+          "Genre": "Animation",
+          "Short Description": "Ice queen's tale.",
+          "Movie Poster": "https://example.com/frozen.jpg"
+        },
+        {
+          "Title": "The Avengers",
+          "Release Year": 2012,
+          "Genre": "Action",
+          "Short Description": "Superheroes unite.",
+          "Movie Poster": "https://example.com/avengers.jpg"
+        },
+        {
+          "Title": "Black Panther",
+          "Release Year": 2018,
+          "Genre": "Action",
+          "Short Description": "Wakanda's king hero.",
+          "Movie Poster": "https://example.com/black_panther.jpg"
+        },
+        {
+          "Title": "Harry Potter",
+          "Release Year": 2001,
+          "Genre": "Fantasy",
+          "Short Description": "Wizard's school life.",
+          "Movie Poster": "https://example.com/harry_potter.jpg"
+        },
+        {
+          "Title": "The Godfather",
+          "Release Year": 1972,
+          "Genre": "Crime",
+          "Short Description": "Mafia family saga.",
+          "Movie Poster": "https://example.com/godfather.jpg"
+        },
+        {
+          "Title": "The Wolf of Wall Street",
+          "Release Year": 2013,
+          "Genre": "Biography",
+          "Short Description": "Stockbroker's rise.",
+          "Movie Poster": "https://example.com/wolf_wall_street.jpg"
+        },
+        {
+          "Title": "Star Wars",
+          "Release Year": 1977,
+          "Genre": "Sci-Fi",
+          "Short Description": "Galaxy wars saga.",
+          "Movie Poster": "https://example.com/star_wars.jpg"
+        },
+        {
+          "Title": "Finding Nemo",
+          "Release Year": 2003,
+          "Genre": "Animation",
+          "Short Description": "Fish's adventure.",
+          "Movie Poster": "https://example.com/finding_nemo.jpg"
+        },
+        {
+          "Title": "Shrek",
+          "Release Year": 2001,
+          "Genre": "Animation",
+          "Short Description": "Ogre's funny journey.",
+          "Movie Poster": "https://example.com/shrek.jpg"
+        },
+        {
+          "Title": "Up",
+          "Release Year": 2009,
+          "Genre": "Animation",
+          "Short Description": "Floating house tale.",
+          "Movie Poster": "https://example.com/up.jpg"
+        },
+        {
+          "Title": "Iron Man",
+          "Release Year": 2008,
+          "Genre": "Action",
+          "Short Description": "Hero in a suit.",
+          "Movie Poster": "https://example.com/iron_man.jpg"
+        },
+        {
+          "Title": "Doctor Strange",
+          "Release Year": 2016,
+          "Genre": "Action",
+          "Short Description": "Mystic hero's story.",
+          "Movie Poster": "https://example.com/doctor_strange.jpg"
+        },
+        {
+          "Title": "Wonder Woman",
+          "Release Year": 2017,
+          "Genre": "Action",
+          "Short Description": "Amazonian warrior.",
+          "Movie Poster": "https://example.com/wonder_woman.jpg"
+        },
+        {
+          "Title": "Moana",
+          "Release Year": 2016,
+          "Genre": "Animation",
+          "Short Description": "Island girl's journey.",
+          "Movie Poster": "https://example.com/moana.jpg"
+        },
+        {
+          "Title": "Coco",
+          "Release Year": 2017,
+          "Genre": "Animation",
+          "Short Description": "Music and family.",
+          "Movie Poster": "https://example.com/coco.jpg"
+        },
+        {
+          "Title": "The Incredibles",
+          "Release Year": 2004,
+          "Genre": "Animation",
+          "Short Description": "Superhero family.",
+          "Movie Poster": "https://example.com/incredibles.jpg"
+        },
+        {
+          "Title": "Toy Story",
+          "Release Year": 1995,
+          "Genre": "Animation",
+          "Short Description": "Toys come alive.",
+          "Movie Poster": "https://example.com/toy_story.jpg"
+        },
+        {
+          "Title": "Spider-Man",
+          "Release Year": 2002,
+          "Genre": "Action",
+          "Short Description": "Web-slinging hero.",
+          "Movie Poster": "https://example.com/spider_man.jpg"
+        },
+        {
+          "Title": "Frozen II",
+          "Release Year": 2019,
+          "Genre": "Animation",
+          "Short Description": "Sisters' icy quest.",
+          "Movie Poster": "https://example.com/frozen_ii.jpg"
+        },
+        {
+          "Title": "Inside Out",
+          "Release Year": 2015,
+          "Genre": "Animation",
+          "Short Description": "Emotions personified.",
+          "Movie Poster": "https://example.com/inside_out.jpg"
+        },
+        {
+          "Title": "Soul",
+          "Release Year": 2020,
+          "Genre": "Animation",
+          "Short Description": "Finding life's spark.",
+          "Movie Poster": "https://example.com/soul.jpg"
+        },
+        {
+          "Title": "The Social Network",
+          "Release Year": 2010,
+          "Genre": "Biography",
+          "Short Description": "Facebook's origin.",
+          "Movie Poster": "https://example.com/social_network.jpg"
+        }
+      ]
+}
