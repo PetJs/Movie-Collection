@@ -1,242 +1,207 @@
 {
     "movies": [
         {
-          "Title": "Inception",
-          "Release Year": 2010,
-          "Genre": "Sci-Fi",
-          "Short Description": "Dreams within dreams.",
-          "Movie Poster": "https://example.com/inception.jpg"
+          "title": "Inception",
+          "release_year": 2010,
+          "genre": "Sci-Fi",
+          "desc": "Dreams within dreams.",
+          "image": "images/inception.jpg"
         },
         {
-          "Title": "The Dark Knight",
-          "Release Year": 2008,
-          "Genre": "Action",
-          "Short Description": "Batman vs. Joker.",
-          "Movie Poster": "https://example.com/dark_knight.jpg"
+          "title": "The Dark Knight",
+          "release_year": 2008,
+          "genre": "Action",
+          "desc": "Batman vs. Joker.",
+          "image": "images/the dark knight.jpg"
         },
         {
-          "Title": "Titanic",
-          "Release Year": 1997,
-          "Genre": "Romance",
-          "Short Description": "Shipwreck love story.",
-          "Movie Poster": "https://example.com/titanic.jpg"
+          "title": "Titanic",
+          "release_year": 1997,
+          "genre": "Romance",
+          "desc": "Shipwreck love story.",
+          "image": "images/titanic.jpg"
         },
         {
-          "Title": "Avatar",
-          "Release Year": 2009,
-          "Genre": "Adventure",
-          "Short Description": "Pandora exploration.",
-          "Movie Poster": "https://example.com/avatar.jpg"
+          "title": "Avatar",
+          "release_year": 2009,
+          "genre": "Adventure",
+          "desc": "Pandora exploration.",
+          "image": "images/avatar.jpg"
         },
         {
-          "Title": "The Matrix",
-          "Release Year": 1999,
-          "Genre": "Sci-Fi",
-          "Short Description": "Reality or simulation?",
-          "Movie Poster": "https://example.com/matrix.jpg"
+          "title": "The Matrix",
+          "release_year": 1999,
+          "genre": "Sci-Fi",
+          "desc": "Reality or simulation?",
+          "image": "images/matrix.jpg"
         },
         {
-          "Title": "Jurassic Park",
-          "Release Year": 1993,
-          "Genre": "Adventure",
-          "Short Description": "Dinosaurs come alive.",
-          "Movie Poster": "https://example.com/jurassic_park.jpg"
+          "title": "Jurassic Park",
+          "release_year": 1993,
+          "genre": "Adventure",
+          "desc": "Dinosaurs come alive.",
+          "image": "images/jurassic_park.jpg"
         },
         {
-          "Title": "Forrest Gump",
-          "Release Year": 1994,
-          "Genre": "Drama",
-          "Short Description": "Life of Forrest Gump.",
-          "Movie Poster": "https://example.com/forrest_gump.jpg"
+          "title": "Forrest Gump",
+          "release_year": 1994,
+          "genre": "Drama",
+          "desc": "Life of Forrest Gump.",
+          "image": "images/forrest_gump.jpg"
         },
         {
-          "Title": "Pulp Fiction",
-          "Release Year": 1994,
-          "Genre": "Crime",
-          "Short Description": "Interwoven stories.",
-          "Movie Poster": "https://example.com/pulp_fiction.jpg"
+          "title": "Pulp Fiction",
+          "release_year": 1994,
+          "genre": "Crime",
+          "desc": "Interwoven stories.",
+          "image": "images/pulp_fiction.jpg"
         },
         {
-          "Title": "The Shawshank Redemption",
-          "Release Year": 1994,
-          "Genre": "Drama",
-          "Short Description": "Hope and freedom.",
-          "Movie Poster": "https://example.com/shawshank.jpg"
+          "title": "The Shawshank Redemption",
+          "release_year": 1994,
+          "genre": "Drama",
+          "desc": "Hope and freedom.",
+          "image": "images/shawshank.jpg"
         },
         {
-          "Title": "Gladiator",
-          "Release Year": 2000,
-          "Genre": "Action",
-          "Short Description": "Rome's fallen hero.",
-          "Movie Poster": "https://example.com/gladiator.jpg"
+          "title": "Gladiator II",
+          "release_year": 2024,
+          "genre": "Action",
+          "desc": "Rome's fallen hero.",
+          "image": "images/gladiator.jpg"
         },
         {
-          "Title": "Interstellar",
-          "Release Year": 2014,
-          "Genre": "Sci-Fi",
-          "Short Description": "Space and time travel.",
-          "Movie Poster": "https://example.com/interstellar.jpg"
+          "title": "Interstellar",
+          "release_year": 2014,
+          "genre": "Sci-Fi",
+          "desc": "Space and time travel.",
+          "image": "images/interstellar.jpg"
         },
         {
-          "Title": "The Lion King",
-          "Release Year": 1994,
-          "Genre": "Animation",
-          "Short Description": "Lion prince's journey.",
-          "Movie Poster": "https://example.com/lion_king.jpg"
+          "title": "The Lion King",
+          "release_year": 1994,
+          "genre": "Animation",
+          "desc": "Lion prince's journey.",
+          "image": "images/lion_king.jpg"
         },
         {
-          "Title": "Frozen",
-          "Release Year": 2013,
-          "Genre": "Animation",
-          "Short Description": "Ice queen's tale.",
-          "Movie Poster": "https://example.com/frozen.jpg"
+          "title": "Frozen",
+          "release_year": 2013,
+          "genre": "Animation",
+          "desc": "Ice queen's tale.",
+          "image": "images/frozen.webp"
         },
         {
-          "Title": "The Avengers",
-          "Release Year": 2012,
-          "Genre": "Action",
-          "Short Description": "Superheroes unite.",
-          "Movie Poster": "https://example.com/avengers.jpg"
+          "title": "The Avengers",
+          "release_year": 2012,
+          "genre": "Action",
+          "desc": "Superheroes unite.",
+          "image": "images/avengers.jpg"
         },
         {
-          "Title": "Black Panther",
-          "Release Year": 2018,
-          "Genre": "Action",
-          "Short Description": "Wakanda's king hero.",
-          "Movie Poster": "https://example.com/black_panther.jpg"
+          "title": "Black Panther",
+          "release_year": 2018,
+          "genre": "Action",
+          "desc": "Wakanda's king hero.",
+          "image": "images/black_panther.jpg"
         },
         {
-          "Title": "Harry Potter",
-          "Release Year": 2001,
-          "Genre": "Fantasy",
-          "Short Description": "Wizard's school life.",
-          "Movie Poster": "https://example.com/harry_potter.jpg"
+          "title": "Harry Potter",
+          "release_year": 2001,
+          "genre": "Fantasy",
+          "desc": "Wizard's school life.",
+          "image": "images/harry_potter.webp"
         },
         {
-          "Title": "The Godfather",
-          "Release Year": 1972,
-          "Genre": "Crime",
-          "Short Description": "Mafia family saga.",
-          "Movie Poster": "https://example.com/godfather.jpg"
+          "title": "The Godfather",
+          "release_year": 1972,
+          "genre": "Crime",
+          "desc": "Mafia family saga.",
+          "image": "images/godfather.jpg"
         },
         {
-          "Title": "The Wolf of Wall Street",
-          "Release Year": 2013,
-          "Genre": "Biography",
-          "Short Description": "Stockbroker's rise.",
-          "Movie Poster": "https://example.com/wolf_wall_street.jpg"
+          "title": "The Wolf of Wall Street",
+          "release_year": 2013,
+          "genre": "Biography",
+          "desc": "Stockbroker's rise.",
+          "image": "images/wolf_wall_street.jpg"
         },
         {
-          "Title": "Star Wars",
-          "Release Year": 1977,
-          "Genre": "Sci-Fi",
-          "Short Description": "Galaxy wars saga.",
-          "Movie Poster": "https://example.com/star_wars.jpg"
+          "title": "Star Wars",
+          "release_year": 1977,
+          "genre": "Sci-Fi",
+          "desc": "Galaxy wars saga.",
+          "image": "images/star_wars.jpg"
         },
         {
-          "Title": "Finding Nemo",
-          "Release Year": 2003,
-          "Genre": "Animation",
-          "Short Description": "Fish's adventure.",
-          "Movie Poster": "https://example.com/finding_nemo.jpg"
+          "title": "Finding Nemo",
+          "release_year": 2003,
+          "genre": "Animation",
+          "desc": "Fish's adventure.",
+          "image": "images/finding_nemo.jpg"
         },
         {
-          "Title": "Shrek",
-          "Release Year": 2001,
-          "Genre": "Animation",
-          "Short Description": "Ogre's funny journey.",
-          "Movie Poster": "https://example.com/shrek.jpg"
+          "title": "Shrek",
+          "release_year": 2001,
+          "genre": "Animation",
+          "desc": "Ogre's funny journey.",
+          "image": "images/shrek.jpg"
         },
         {
-          "Title": "Up",
-          "Release Year": 2009,
-          "Genre": "Animation",
-          "Short Description": "Floating house tale.",
-          "Movie Poster": "https://example.com/up.jpg"
+          "title": "Up",
+          "release_year": 2009,
+          "genre": "Animation",
+          "desc": "Floating house tale.",
+          "image": "images/up.jpg"
         },
         {
-          "Title": "Iron Man",
-          "Release Year": 2008,
-          "Genre": "Action",
-          "Short Description": "Hero in a suit.",
-          "Movie Poster": "https://example.com/iron_man.jpg"
+          "title": "Iron Man",
+          "release_year": 2008,
+          "genre": "Action",
+          "desc": "Hero in a suit.",
+          "image": "images/iron_man.jpg"
         },
         {
-          "Title": "Doctor Strange",
-          "Release Year": 2016,
-          "Genre": "Action",
-          "Short Description": "Mystic hero's story.",
-          "Movie Poster": "https://example.com/doctor_strange.jpg"
+          "title": "Moana",
+          "release_year": 2016,
+          "genre": "Animation",
+          "desc": "Island girl's journey.",
+          "image": "images/moana.jpg"
         },
         {
-          "Title": "Wonder Woman",
-          "Release Year": 2017,
-          "Genre": "Action",
-          "Short Description": "Amazonian warrior.",
-          "Movie Poster": "https://example.com/wonder_woman.jpg"
+          "title": "Coco",
+          "release_year": 2017,
+          "genre": "Animation",
+          "desc": "Music and family.",
+          "image": "images/coco.jpg"
         },
         {
-          "Title": "Moana",
-          "Release Year": 2016,
-          "Genre": "Animation",
-          "Short Description": "Island girl's journey.",
-          "Movie Poster": "https://example.com/moana.jpg"
+          "title": "Spider-Man",
+          "release_year": 2002,
+          "genre": "Action",
+          "desc": "Web-slinging hero.",
+          "image": "images/spider_man.jpg"
         },
         {
-          "Title": "Coco",
-          "Release Year": 2017,
-          "Genre": "Animation",
-          "Short Description": "Music and family.",
-          "Movie Poster": "https://example.com/coco.jpg"
+          "title": "Inside Out",
+          "release_year": 2015,
+          "genre": "Animation",
+          "desc": "Emotions personified.",
+          "image": "images/inside_out.jpg"
         },
         {
-          "Title": "The Incredibles",
-          "Release Year": 2004,
-          "Genre": "Animation",
-          "Short Description": "Superhero family.",
-          "Movie Poster": "https://example.com/incredibles.jpg"
+          "title": "Soul",
+          "release_year": 2020,
+          "genre": "Animation",
+          "desc": "Finding life's spark.",
+          "image": "images/soul.jpg"
         },
         {
-          "Title": "Toy Story",
-          "Release Year": 1995,
-          "Genre": "Animation",
-          "Short Description": "Toys come alive.",
-          "Movie Poster": "https://example.com/toy_story.jpg"
-        },
-        {
-          "Title": "Spider-Man",
-          "Release Year": 2002,
-          "Genre": "Action",
-          "Short Description": "Web-slinging hero.",
-          "Movie Poster": "https://example.com/spider_man.jpg"
-        },
-        {
-          "Title": "Frozen II",
-          "Release Year": 2019,
-          "Genre": "Animation",
-          "Short Description": "Sisters' icy quest.",
-          "Movie Poster": "https://example.com/frozen_ii.jpg"
-        },
-        {
-          "Title": "Inside Out",
-          "Release Year": 2015,
-          "Genre": "Animation",
-          "Short Description": "Emotions personified.",
-          "Movie Poster": "https://example.com/inside_out.jpg"
-        },
-        {
-          "Title": "Soul",
-          "Release Year": 2020,
-          "Genre": "Animation",
-          "Short Description": "Finding life's spark.",
-          "Movie Poster": "https://example.com/soul.jpg"
-        },
-        {
-          "Title": "The Social Network",
-          "Release Year": 2010,
-          "Genre": "Biography",
-          "Short Description": "Facebook's origin.",
-          "Movie Poster": "https://example.com/social_network.jpg"
+          "title": "The Social Network",
+          "release_year": 2010,
+          "genre": "Biography",
+          "desc": "Facebook's origin.",
+          "image": "images/social_network.jpg"
         }
       ]
 }
