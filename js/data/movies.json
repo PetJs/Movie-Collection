@@ -1,207 +1,207 @@
 {
-    "movies": [
-        {
-          "title": "Inception",
-          "release_year": 2010,
-          "genre": "Sci-Fi",
-          "desc": "Dreams within dreams.",
-          "image": "images/inception.jpg"
-        },
-        {
-          "title": "The Dark Knight",
-          "release_year": 2008,
-          "genre": "Action",
-          "desc": "Batman vs. Joker.",
-          "image": "images/the dark knight.jpg"
-        },
-        {
-          "title": "Titanic",
-          "release_year": 1997,
-          "genre": "Romance",
-          "desc": "Shipwreck love story.",
-          "image": "images/titanic.jpg"
-        },
-        {
-          "title": "Avatar",
-          "release_year": 2009,
-          "genre": "Adventure",
-          "desc": "Pandora exploration.",
-          "image": "images/avatar.jpg"
-        },
-        {
-          "title": "The Matrix",
-          "release_year": 1999,
-          "genre": "Sci-Fi",
-          "desc": "Reality or simulation?",
-          "image": "images/matrix.jpg"
-        },
-        {
-          "title": "Jurassic Park",
-          "release_year": 1993,
-          "genre": "Adventure",
-          "desc": "Dinosaurs come alive.",
-          "image": "images/jurassic_park.jpg"
-        },
-        {
-          "title": "Forrest Gump",
-          "release_year": 1994,
-          "genre": "Drama",
-          "desc": "Life of Forrest Gump.",
-          "image": "images/forrest_gump.jpg"
-        },
-        {
-          "title": "Pulp Fiction",
-          "release_year": 1994,
-          "genre": "Crime",
-          "desc": "Interwoven stories.",
-          "image": "images/pulp_fiction.jpg"
-        },
-        {
-          "title": "The Shawshank Redemption",
-          "release_year": 1994,
-          "genre": "Drama",
-          "desc": "Hope and freedom.",
-          "image": "images/shawshank.jpg"
-        },
-        {
-          "title": "Gladiator II",
-          "release_year": 2024,
-          "genre": "Action",
-          "desc": "Rome's fallen hero.",
-          "image": "images/gladiator.jpg"
-        },
-        {
-          "title": "Interstellar",
-          "release_year": 2014,
-          "genre": "Sci-Fi",
-          "desc": "Space and time travel.",
-          "image": "images/interstellar.jpg"
-        },
-        {
-          "title": "The Lion King",
-          "release_year": 1994,
-          "genre": "Animation",
-          "desc": "Lion prince's journey.",
-          "image": "images/lion_king.jpg"
-        },
-        {
-          "title": "Frozen",
-          "release_year": 2013,
-          "genre": "Animation",
-          "desc": "Ice queen's tale.",
-          "image": "images/frozen.webp"
-        },
-        {
-          "title": "The Avengers",
-          "release_year": 2012,
-          "genre": "Action",
-          "desc": "Superheroes unite.",
-          "image": "images/avengers.jpg"
-        },
-        {
-          "title": "Black Panther",
-          "release_year": 2018,
-          "genre": "Action",
-          "desc": "Wakanda's king hero.",
-          "image": "images/black_panther.jpg"
-        },
-        {
-          "title": "Harry Potter",
-          "release_year": 2001,
-          "genre": "Fantasy",
-          "desc": "Wizard's school life.",
-          "image": "images/harry_potter.webp"
-        },
-        {
-          "title": "The Godfather",
-          "release_year": 1972,
-          "genre": "Crime",
-          "desc": "Mafia family saga.",
-          "image": "images/godfather.jpg"
-        },
-        {
-          "title": "The Wolf of Wall Street",
-          "release_year": 2013,
-          "genre": "Biography",
-          "desc": "Stockbroker's rise.",
-          "image": "images/wolf_wall_street.jpg"
-        },
-        {
-          "title": "Star Wars",
-          "release_year": 1977,
-          "genre": "Sci-Fi",
-          "desc": "Galaxy wars saga.",
-          "image": "images/star_wars.jpg"
-        },
-        {
-          "title": "Finding Nemo",
-          "release_year": 2003,
-          "genre": "Animation",
-          "desc": "Fish's adventure.",
-          "image": "images/finding_nemo.jpg"
-        },
-        {
-          "title": "Shrek",
-          "release_year": 2001,
-          "genre": "Animation",
-          "desc": "Ogre's funny journey.",
-          "image": "images/shrek.jpg"
-        },
-        {
-          "title": "Up",
-          "release_year": 2009,
-          "genre": "Animation",
-          "desc": "Floating house tale.",
-          "image": "images/up.jpg"
-        },
-        {
-          "title": "Iron Man",
-          "release_year": 2008,
-          "genre": "Action",
-          "desc": "Hero in a suit.",
-          "image": "images/iron_man.jpg"
-        },
-        {
-          "title": "Moana",
-          "release_year": 2016,
-          "genre": "Animation",
-          "desc": "Island girl's journey.",
-          "image": "images/moana.jpg"
-        },
-        {
-          "title": "Coco",
-          "release_year": 2017,
-          "genre": "Animation",
-          "desc": "Music and family.",
-          "image": "images/coco.jpg"
-        },
-        {
-          "title": "Spider-Man",
-          "release_year": 2002,
-          "genre": "Action",
-          "desc": "Web-slinging hero.",
-          "image": "images/spider_man.jpg"
-        },
-        {
-          "title": "Inside Out",
-          "release_year": 2015,
-          "genre": "Animation",
-          "desc": "Emotions personified.",
-          "image": "images/inside_out.jpg"
-        },
-        {
-          "title": "Soul",
-          "release_year": 2020,
-          "genre": "Animation",
-          "desc": "Finding life's spark.",
-          "image": "images/soul.jpg"
-        },
-        {
-          "title": "The Social Network",
-          "release_year": 2010,
-          "genre": "Biography",
-          "desc": "Facebook's origin.",
-          "image": "images/social_network.jpg"
-        }
-      ]
+  "movies": [
+    {
+      "title": "Inception",
+      "release_year": 2010,
+      "genre": "Sci-Fi",
+      "desc": "Inception explores the mind's ability to create dreams within dreams. Dom Cobb, a skilled thief, is tasked with implanting an idea into a target's subconscious. As he navigates a labyrinth of realities, the boundaries between dream and reality blur.",
+      "image": "images/inception.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "release_year": 2008,
+      "genre": "Action",
+      "desc": "The Dark Knight is the intense battle between Batman and the Joker, a criminal mastermind. Batman must stop the Joker’s plan to destroy Gotham, but the villain’s unpredictability pushes the hero to confront moral dilemmas. The film redefines the superhero genre.",
+      "image": "images/the dark knight.jpg"
+    },
+    {
+      "title": "Titanic",
+      "release_year": 1997,
+      "genre": "Romance",
+      "desc": "Titanic tells the tragic love story of Jack and Rose aboard the ill-fated RMS Titanic. Despite coming from different social classes, their love blossoms as the ship sinks. The film showcases themes of sacrifice, loss, and the inevitability of fate.",
+      "image": "images/titanic.jpg"
+    },
+    {
+      "title": "Avatar",
+      "release_year": 2009,
+      "genre": "Adventure",
+      "desc": "Set on the lush planet of Pandora, Avatar follows Jake Sully, a paraplegic ex-Marine, who is tasked with infiltrating the indigenous Na'vi people. As he becomes closer to the Na'vi, he faces a moral dilemma and the future of their world. The film explores themes of environmentalism and colonialism.",
+      "image": "images/avatar.jpg"
+    },
+    {
+      "title": "The Matrix",
+      "release_year": 1999,
+      "genre": "Sci-Fi",
+      "desc": "The Matrix follows Neo, a hacker who learns that the world he lives in is an artificial simulation created by machines. He is drawn into a rebellion against the machine overlords. The film explores deep philosophical themes, such as free will, control, and perception of reality.",
+      "image": "images/matrix.jpg"
+    },
+    {
+      "title": "Jurassic Park",
+      "release_year": 1993,
+      "genre": "Adventure",
+      "desc": "Jurassic Park is a groundbreaking film about a theme park featuring genetically engineered dinosaurs. When the park's security systems fail, the dinosaurs escape, and the visitors must survive. It’s a thrilling exploration of science, ethics, and chaos theory.",
+      "image": "images/jurassic_park.jpg"
+    },
+    {
+      "title": "Forrest Gump",
+      "release_year": 1994,
+      "genre": "Drama",
+      "desc": "Forrest Gump follows the life of a man with low intelligence who inadvertently influences historical events in the 20th century. From his childhood in Alabama to his time in the Vietnam War, Forrest’s journey is full of surprising moments. His story is one of love, loss, and the beauty of simple wisdom.",
+      "image": "images/forrest_gump.jpg"
+    },
+    {
+      "title": "Pulp Fiction",
+      "release_year": 1994,
+      "genre": "Crime",
+      "desc": "Pulp Fiction intertwines multiple stories involving crime, redemption, and betrayal in Los Angeles. Through nonlinear storytelling, the film explores the lives of hitmen, boxers, and criminals in a series of chaotic events. The dark humor and shocking twists define this Tarantino classic.",
+      "image": "images/pulp_fiction.jpg"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "release_year": 1994,
+      "genre": "Drama",
+      "desc": "The Shawshank Redemption tells the story of Andy Dufresne, a man wrongfully imprisoned for the murder of his wife. Over the years, he builds a friendship with fellow inmate Red. This film is about hope, friendship, and the enduring spirit to survive even the harshest conditions.",
+      "image": "images/shawshank.jpg"
+    },
+    {
+      "title": "Gladiator II",
+      "release_year": 2024,
+      "genre": "Action",
+      "desc": "In Gladiator II, Maximus returns from the afterlife to confront a new power struggle in the Roman Empire. As he navigates political intrigue and betrayal, Maximus must make choices that will change the course of history. The epic battle for the soul of Rome continues.",
+      "image": "images/gladiator.jpg"
+    },
+    {
+      "title": "Interstellar",
+      "release_year": 2014,
+      "genre": "Sci-Fi",
+      "desc": "Interstellar follows a group of astronauts who journey through a wormhole in search of a new home for humanity. As they explore distant planets, they face the challenges of time dilation and human emotions. The film beautifully blends space exploration with deep personal sacrifice.",
+      "image": "images/interstellar.jpg"
+    },
+    {
+      "title": "The Lion King",
+      "release_year": 1994,
+      "genre": "Animation",
+      "desc": "The Lion King tells the story of Simba, a young lion who must reclaim his place as king of the Pride Lands. After the tragic death of his father, Simba learns about responsibility, leadership, and the circle of life. This animated classic explores themes of family and destiny.",
+      "image": "images/lion_king.jpg"
+    },
+    {
+      "title": "Frozen",
+      "release_year": 2013,
+      "genre": "Animation",
+      "desc": "Frozen follows the story of two sisters, Elsa and Anna, in the kingdom of Arendelle. Elsa's magical powers to control ice lead her to isolate herself, but it’s up to Anna to save the kingdom and her sister. The film is about love, sacrifice, and the power of familial bonds.",
+      "image": "images/frozen.webp"
+    },
+    {
+      "title": "The Avengers",
+      "release_year": 2012,
+      "genre": "Action",
+      "desc": "The Avengers unites Marvel’s iconic superheroes to stop the alien invasion led by Loki. Each hero brings unique strengths to the team, but they must also learn to work together as a cohesive unit. This action-packed film set the stage for the Marvel Cinematic Universe.",
+      "image": "images/avengers.jpg"
+    },
+    {
+      "title": "Black Panther",
+      "release_year": 2018,
+      "genre": "Action",
+      "desc": "Black Panther introduces T'Challa, the newly crowned king of Wakanda, who must protect his nation from a powerful adversary. As T'Challa faces challenges to his rule, he discovers deeper truths about his father’s legacy. The film celebrates African culture and explores themes of identity and responsibility.",
+      "image": "images/black_panther.jpg"
+    },
+    {
+      "title": "Harry Potter",
+      "release_year": 2001,
+      "genre": "Fantasy",
+      "desc": "Harry Potter is a young boy who discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry. Along with his friends, Harry uncovers mysteries, battles dark forces, and learns about his destiny. The series captures the magic of friendship, bravery, and self-discovery.",
+      "image": "images/harry_potter.webp"
+    },
+    {
+      "title": "The Godfather",
+      "release_year": 1972,
+      "genre": "Crime",
+      "desc": "The Godfather chronicles the rise of the powerful Corleone crime family in 1940s New York. Don Vito Corleone, the family patriarch, must navigate power struggles, loyalty, and betrayal. The film explores the consequences of a violent life and the sacrifices it demands from those involved.",
+      "image": "images/godfather.jpg"
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "release_year": 2013,
+      "genre": "Biography",
+      "desc": "The Wolf of Wall Street tells the true story of Jordan Belfort, a stockbroker who rises to power through fraud, excess, and manipulation. His wild lifestyle of wealth and indulgence eventually leads to his downfall. The film is a commentary on greed, corruption, and the pursuit of the American Dream.",
+      "image": "images/wolf_wall_street.jpg"
+    },
+    {
+      "title": "Star Wars",
+      "release_year": 1977,
+      "genre": "Sci-Fi",
+      "desc": "Star Wars is the epic story of Luke Skywalker’s journey to become a Jedi Knight. Against the evil Galactic Empire, Luke joins forces with Princess Leia, Han Solo, and Obi-Wan Kenobi to fight for freedom in the galaxy. The film blends adventure, heroism, and family in a timeless saga.",
+      "image": "images/star_wars.jpg"
+    },
+    {
+      "title": "Finding Nemo",
+      "release_year": 2003,
+      "genre": "Animation",
+      "desc": "Finding Nemo follows Marlin, a clownfish, on his journey to rescue his son, Nemo, who has been captured by a diver. Along the way, Marlin encounters a host of sea creatures, learning about trust and courage. This heartwarming story teaches the importance of family and perseverance.",
+      "image": "images/finding_nemo.jpg"
+    },
+    {
+      "title": "Shrek",
+      "release_year": 2001,
+      "genre": "Animation",
+      "desc": "Shrek is an ogre who prefers solitude but finds his life turned upside down when he becomes involved in rescuing Princess Fiona. Alongside his loyal companion Donkey, Shrek learns the value of friendship and love. The film is a humorous take on fairy tale tropes and self-acceptance.",
+      "image": "images/shrek.jpg"
+    },
+    {
+      "title": "Up",
+      "release_year": 2009,
+      "genre": "Animation",
+      "desc": "Up follows Carl Fredricksen, an elderly widower who embarks on a journey to fulfill his late wife’s dream of visiting Paradise Falls. With an accidental stowaway, a young boy named Russell, Carl learns that adventure is not just about destinations but the relationships we form along the way.",
+      "image": "images/up.jpg"
+    },
+    {
+      "title": "Iron Man",
+      "release_year": 2008,
+      "genre": "Action",
+      "desc": "Iron Man follows the story of Tony Stark, a wealthy genius who is kidnapped by terrorists and forced to build a weapon of mass destruction. Instead, he builds an armored suit and escapes. Tony’s journey of self-reinvention leads him to become a hero who must confront his past mistakes.",
+      "image": "images/iron_man.jpg"
+    },
+    {
+      "title": "Moana",
+      "release_year": 2016,
+      "genre": "Animation",
+      "desc": "Moana follows the story of a young Polynesian girl who embarks on a perilous journey to save her people. Guided by the ocean, she discovers her inner strength and the true meaning of leadership. The film celebrates Polynesian culture and the courage to face the unknown.",
+      "image": "images/moana.jpg"
+    },
+    {
+      "title": "Coco",
+      "release_year": 2017,
+      "genre": "Animation",
+      "desc": "Coco follows Miguel, a young boy with a passion for music, who finds himself in the Land of the Dead. In his quest to discover his family’s history, he learns the importance of remembering his ancestors. The film explores themes of family, memory, and the love that transcends time.",
+      "image": "images/coco.jpg"
+    },
+    {
+      "title": "Spider-Man",
+      "release_year": 2002,
+      "genre": "Action",
+      "desc": "Spider-Man tells the story of Peter Parker, a teenager who gains superpowers after being bitten by a radioactive spider. As he learns the responsibilities of being a hero, Peter must balance his personal life with fighting crime. The film explores power, responsibility, and self-discovery.",
+      "image": "images/spider_man.jpg"
+    },
+    {
+      "title": "Inside Out",
+      "release_year": 2015,
+      "genre": "Animation",
+      "desc": "Inside Out takes you inside the mind of Riley, a young girl navigating the complexities of growing up. Personified emotions—Joy, Sadness, Anger, Fear, and Disgust—work together to guide her. The film explores how emotions shape memories and decisions, highlighting the importance of emotional balance.",
+      "image": "images/inside_out.jpg"
+    },
+    {
+      "title": "Soul",
+      "release_year": 2020,
+      "genre": "Animation",
+      "desc": "Soul follows Joe Gardner, a middle-aged jazz musician who, after an accident, finds himself in the afterlife. While trying to return to his life, he discovers the deeper meaning of existence. The film explores purpose, passion, and the beauty of life's small moments.",
+      "image": "images/soul.jpg"
+    },
+    {
+      "title": "The Social Network",
+      "release_year": 2010,
+      "genre": "Biography",
+      "desc": "The Social Network tells the story of Mark Zuckerberg’s rise to fame as the founder of Facebook. Through legal battles and betrayals, the film explores the complexities of ambition, friendship, and success in the digital age. It’s a story of innovation, power, and the cost of greatness.",
+      "image": "images/social_network.jpg"
+    }
+  ]
 }

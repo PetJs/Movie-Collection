@@ -16,15 +16,20 @@ function renderMovies(movieList) {
     const cardGrid = document.getElementById('card-grid');
     cardGrid.innerHTML = '';
 
-    movieList.forEach(movie => {
+    movieList.forEach((movie, index) => {
         const card = document.createElement('div');
         card.className = 'card';
+        card.dataset.index = index;
         
         card.innerHTML = `
-            <img src="${movie.image}" alt="${movie.title}">
-            <h3>${movie.title}</h3>
-            <span class="type">${movie.genre}</span>
+            <img src="${movie.image}" alt="${movie.title}" >
+            <div class="gaps">
+                <h3>${movie.title}</h3>
+                <span class="type">${movie.genre}</span>
+            <div/>
         `;
+
+        card.addEventListener('click', () => enlargeCard(movie));
         
         cardGrid.appendChild(card);
     });
