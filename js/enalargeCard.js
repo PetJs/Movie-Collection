@@ -1,11 +1,10 @@
 const enlargeCard = (movie) => {
     const bigCardDiv = document.createElement('div')
-    bigCardDiv.id = 'bigCardDiv';
     bigCardDiv.className = "enlarge"
 
     bigCardDiv.innerHTML = `
         <div class = "enlarge-card" >
-            <button id="close" class="close-btn">X</button>
+            <input type="button" id="close" class="close-btn" value="X">
             <div class="center-img">
                 <img src="${movie.image}" alt="" class="enlarge-img">
             </div>
@@ -19,7 +18,8 @@ const enlargeCard = (movie) => {
     document.body.appendChild(bigCardDiv);
 
     document.getElementById('close').addEventListener('click', () => {
-        document.getElementById('bigCardDiv').classList.add('hidden');
+        document.body.removeChild(bigCardDiv);
+
     });
     
 }

@@ -61,7 +61,8 @@ function renderMovies(movieList) {
             <div/>
         `;
 
-        card.addEventListener('click', () => enlargeCard(movie));
+        card.addEventListener('click', (event) => 
+            enlargeCard(movie));
 
         cardGrid.appendChild(card);
     });
