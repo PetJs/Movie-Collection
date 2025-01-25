@@ -38,13 +38,13 @@ A web application for displaying movies by genre, demonstrating GitHub workflow 
 
 
 ## Team Member Contributions
-1. [Fagoroye Peter]('https://github.com/PetJs') 
+1. [Fagoroye Peter](https://github.com/PetJs) 
 - Owner of the repo.
 - Setup project folder
 - Implemented the rendering of the movie cards
 - Implemented the card enlargement funcitionality
 - Styled the home page
-2. [Abdulsalam Baruwa]('https://github.com/dmystical-coder')
+2. [Abdulsalam Baruwa](https://github.com/dmystical-coder)
 - Implemented the genre filtering functionality
 - Added styling to the movie card enlargement
 - Fixed the close btn issue
