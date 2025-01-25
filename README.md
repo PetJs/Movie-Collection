@@ -57,3 +57,6 @@ A web application for displaying movies by genre, demonstrating GitHub workflow 
 4. Leveraging JavaScript for dynamic content rendering and interactivity.
 5. Enhancing styling with CSS for better user experience.
 
+## 
+Here is the link to the live web application [Movie Collection](https://movie-collection-iota.vercel.app/) and the document to document our workflow[Documentation](https://docs.google.com/document/d/1zqfTkSbkz2T-k5kToLQLg4qFFN4fpCmqlkyIvCHLTlM/edit?tab=t.0)
+
