@@ -18,6 +18,15 @@ img{
     mix-blend-mode: multiply;
 }
 
+/* Add styling for select genre */
+#genre{
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+    margin: 1.5rem 3rem;
+}
+
 #card-grid{
     display: flex;
     justify-content: center;
