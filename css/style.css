@@ -9,7 +9,6 @@ header{
     gap: 6px;
     justify-content: center;
     align-items: center;
-    background-color: rebeccapurple;
     margin: 3rem;
 }
 
@@ -17,4 +16,108 @@ img{
     width: 92px;
     height: auto;
     mix-blend-mode: multiply;
+}
+
+#card-grid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    padding: 32px;
+    flex-wrap: wrap;
+}
+
+.placeholder{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(90deg, #ccc 25%, #e0e0e0 50%, #ccc 75%);
+    border-radius: 24px;
+    animation: shimmer 2s infinite;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.2s ease;
+}
+
+.card img {
+    width: 240px;
+    height: 240px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+.card .gaps{
+    display: flex;
+    gap: 12px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.enlarge{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 75vw;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 50;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.56);
+}
+
+.hidden {
+    display: none;
+}
+
+.close-btn {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    color: #000;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.enlarge-card{
+    color: #fff;
+    position: absolute;
+    inset: 1;
+    z-index: 10;
+    font-weight: 200;
+    font-size: 30px;
+}
+
+h2{
+    font-size: 36px;
+}
+
+.center-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.enlarge-img{
+    width: 500px;
+    
+}
+
+
+
+@keyframes shimmer {
+    0% {
+        background-position: -100px 0;
+    }
+    100% {
+        background-position: 200px 0;
+    }
 }
