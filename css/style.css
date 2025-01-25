@@ -144,3 +144,40 @@ h2{
         background-position: 200px 0;
     }
 }
+
+@media screen and (max-width: 640px){
+    #card-grid{
+        padding: 16px;
+    }
+    .card img{
+        width: 200px;
+        height: 200px;
+    }
+    .card{
+        padding: 10px;
+    }
+    .enlarge{
+        width: 90vw;
+        height: 90vh;
+    }
+    .enlarge-card{
+        padding: 0.5rem;
+        flex-direction: column;
+    }
+    .enlarge-card .gaps{
+        flex-basis: 100%;
+    }
+    .enlarge-card h2{
+        font-size: 1.25rem;
+        margin-bottom: .5rem;
+    }
+    .enlarge-card p, .enlarge-card span{
+        font-size: .75rem;
+    }
+    .enlarge-card p{
+        margin-top: 0.5rem;
+    }
+    .center-img{
+        width: 50%;
+    }
+}
