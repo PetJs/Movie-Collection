@@ -134,6 +134,15 @@ h2{
     font-size: 36px;
 }
 
+.type{
+    padding: .25rem;
+    font-size: .75rem;
+    font-weight: 700;
+    border: 1px solid #ff4800;
+    border-radius: 0.5rem;
+    color: #ff4800;
+}
+
 
 
 @keyframes shimmer {
