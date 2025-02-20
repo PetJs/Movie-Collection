@@ -1,7 +1,9 @@
 # Movie-Collection
+
 A web application for displaying movies by genre, demonstrating GitHub workflow and terminal skills.
 
 ## Tools used
+
 - HTML
 - CSS
 - Javascript
@@ -15,6 +17,7 @@ A web application for displaying movies by genre, demonstrating GitHub workflow 
 2. Open index.html file in your browser to run it locally
 
 ## CLI Commands used
+
 1. mkdir
 2. git clone
 3. git add .
@@ -22,6 +25,7 @@ A web application for displaying movies by genre, demonstrating GitHub workflow 
 5. git checkout <branch-name>
 
 ## Github workflow Steps
+
 1. Clone the Repository:
     ```bash
     git clone https://github.com/PetJs/Movie-Collection.git
@@ -38,6 +42,7 @@ A web application for displaying movies by genre, demonstrating GitHub workflow 
 
 
 ## Team Member Contributions
+
 1. [Fagoroye Peter](https://github.com/PetJs) 
 - Owner of the repo.
 - Setup project folder
@@ -51,12 +56,13 @@ A web application for displaying movies by genre, demonstrating GitHub workflow 
 - Added additional styling to the homepage
 
 ## Lessons
+
 1. Effective use of Git and GitHub for team collaboration.
 2. The importance of structured workflows in managing feature development.
 3. Debugging and fixing UI/UX issues, such as the close button functionality.
 4. Leveraging JavaScript for dynamic content rendering and interactivity.
 5. Enhancing styling with CSS for better user experience.
 
-## 
-Here is the link to the live web application [Movie Collection](https://movie-collection-iota.vercel.app/) and the document to document our workflow[Documentation](https://docs.google.com/document/d/1zqfTkSbkz2T-k5kToLQLg4qFFN4fpCmqlkyIvCHLTlM/edit?tab=t.0)
+## Submission
+Here is the link to the live web application [Movie Collection](https://movie-collection-iota.vercel.app/) the document to document our workflow [Documentation](https://docs.google.com/document/d/1zqfTkSbkz2T-k5kToLQLg4qFFN4fpCmqlkyIvCHLTlM/edit?tab=t.0) and [Presentation](https://docs.google.com/presentation/d/1iWXYrKSfljlHwj-hRrouTCjpMiIHQmiLbOJbdD52huQ/edit)
 
